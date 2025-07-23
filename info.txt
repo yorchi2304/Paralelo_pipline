@@ -12,3 +12,21 @@ Incio de Cypress
 
 
 4. node_modules\.bin\cypress open
+
+
+
+npx cypress run --record --key 632ebd3a-3595-4af6-8776-a6096895e8e5
+
+2d080931-1e83-4ab4-b827-cbb78d4ff860
+
+3697609c-340a-4ea9-a20d-ba5dc3fda3e4
+
+git init   // iniciar git
+
+git status
+
+git add .
+
+git commit -m ""
+
+git push
