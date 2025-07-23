@@ -1,0 +1,14 @@
+{
+  "name": "cypress_pipline",
+  "version": "1.0.0",
+  "description": "Inicio de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Cruz Chavez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
